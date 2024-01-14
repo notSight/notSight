@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/si3ht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="si3ht" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/om-tripathi-27936b291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-tripathi-27936b291" height="30" width="40" /></a>
-<a href="https://instagram.com/@sieght_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sieght_" height="30" width="40" /></a>
+<a href="https://instagram.com/sieght_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sieght_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@omtripathi636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@omtripathi636" height="30" width="40" /></a>
 <a href="https://discord.gg/sieght" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sieght" height="30" width="40" /></a>
 </p>
